@@ -24,7 +24,7 @@ pom.xml
 ```
 
 
-.java
+.java or refer to DEMO folder, it includes service demo sender and QR code generator
 
 ```
 String host = "0.0.0.1"; // Your mail server IP"
